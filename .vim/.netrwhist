@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/rory/flask_dmp/platform_website/app/mocks'
+let g:netrw_dirhist_2='/home/rory/flask_practice'
+let g:netrw_dirhist_3='/home/rory/flask_dmp'
+let g:netrw_dirhist_4='/etc/gitlab-runner'
+let g:netrw_dirhist_5='/home/rory/flask_dmp/my_dmp_web/DMP_web_application/server/views'
+let g:netrw_dirhist_6='/home/rory/flask_dmp/my_dmp_web/DMP_web_application/server/tests'
